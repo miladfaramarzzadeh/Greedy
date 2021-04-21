@@ -73,4 +73,5 @@ greedytest(items, maxWeight, weightInverse)
 print('filling the knapsack according to density : ', maxWeight)
 greedytest(items, maxWeight, density)
 
-    
+   
+   
